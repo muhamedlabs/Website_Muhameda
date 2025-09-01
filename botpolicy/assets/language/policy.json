@@ -1,187 +1,319 @@
 {
-    "en": {
-      "title": "Privacy Policy.",
-      "content": "This Privacy Policy outlines how all products and bots developed by Muhamed IT Solutions collect, use, store, and protect user information. By using any product or service from Muhamed IT Solutions, you agree to the terms of this policy.",
-      "sections": {
-        "data-collection": {
-          "title": "1. Data Collection",
-          "content": "<strong>1.1. Types of Data Collected</strong><br>Muhamed IT Solutions products may collect the following types of data: User and server identifiers: For identification, moderation, and service provision. Messages and logs: Collected for moderation, activity analysis, and improving product functionality. Metadata: Including timestamps, channel information, and user interactions.<br><br><strong>1.2. Data Collection Methods</strong><br>Data is collected automatically during your interactions with Muhamed IT Solutions products. We do not collect data without your knowledge or consent."
-        },
-        "data-use": {
-          "title": "2. Data Use",
-          "content": "<strong>2.1. Purposes of Use</strong><br>The data collected is used to: Ensure proper moderation and management of servers using our products. Analyze and enhance the performance and functionality of the products. Maintain security and prevent misuse, abuse, or malicious activity within the products.<br><br><strong>2.2. Data Sharing</strong><br>We do not share user data with third parties, except when required by law or when necessary to provide core services within the bot."
-        },
-        "data-retention": {
-          "title": "3. Data Retention",
-          "content": "<strong>3.1. Retention Period</strong><br>User data is stored for a period of 30 days. After this period, data is automatically deleted unless required by law or for security reasons.<br><br><strong>3.2. Data Protection</strong><br>Muhamed IT Solutions takes reasonable precautions to safeguard user data from unauthorized access, use, or disclosure. Security measures include encryption, regular security audits, and controlled access."
-        },
-        "user-rights": {
-          "title": "4. User Rights",
-          "content": "<strong>4.1. Access and Correction</strong><br>You have the right to request access to the data we store about you and correct any inaccuracies. To make such a request, please contact us through our: akynsasa@gmail.com .<br><br><strong>4.2. Withdrawal of Consent</strong><br>You may withdraw your consent to the collection and storage of your data at any time by discontinuing the use of Muhamed IT Solutions products."
-        },
-        "cookies": {
-          "title": "5. Cookies",
-          "content": "<strong>5.1. Use of Cookies</strong><br>We use cookies to enhance user experience and analyze site usage. Cookies are small data files stored on your device.<br><br><strong>5.2. Managing Cookies</strong><br>You can manage cookie preferences through your browser settings. Disabling cookies may affect your ability to use certain features of our products."
-        },
-        "third-party-services": {
-          "title": "6. Third-Party Services",
-          "content": "<strong>6.1. Integration</strong><br>Our products may integrate with third-party services. We are not responsible for the privacy practices of these third-party services.<br><br><strong>6.2. Data Sharing with Third Parties</strong><br>We do not share your data with third parties except as necessary for service provision or as required by law."
-        },
-        "security": {
-          "title": "7. Security",
-          "content": "<strong>7.1. Security Measures</strong><br>We implement various security measures to protect your data from unauthorized access, alteration, or destruction.<br><br><strong>7.2. Data Breach Notification</strong><br>In the event of a data breach, we will notify affected users and take necessary actions to mitigate the impact."
-        },
-        "children": {
-          "title": "8. Children’s Privacy",
-          "content": "<strong>8.1. Age Restriction</strong><br>Our products are not intended for individuals under the age of 13. We do not knowingly collect data from children under 13.<br><br><strong>8.2. Parental Consent</strong><br>If you are a parent or guardian and believe your child has provided us with personal information, please contact us to request removal."
-        },
-        "changes-to-policy": {
-          "title": "9. Changes to the Policy",
-          "content": "We may update this Privacy Policy from time to time. Continued use of any Muhamed IT Solutions product after the policy changes signifies your acceptance of the updated terms."
-        },
-        "contact-information": {
-          "title": "10. Contact Information",
-          "content": "If you have any questions, concerns, or suggestions regarding this Privacy Policy, feel free to contact us: akynsasa@gmail.com ."
-        },
-        "data-storage": {
-          "title": "11. Data Storage",
-          "content": "<strong>11.1. Storage Location</strong><br>Data may be stored on servers located in different regions. We ensure that all storage practices comply with applicable data protection laws.<br><br><strong>11.2. Data Access</strong><br>Access to stored data is limited to authorized personnel only and is protected by access controls."
-        },
-        "data-transfers": {
-          "title": "12. Data Transfers",
-          "content": "<strong>12.1. International Transfers</strong><br>Data may be transferred to and processed in countries other than your own. We ensure that such transfers comply with applicable data protection laws.<br><br><strong>12.2. Safeguards</strong><br>We implement appropriate safeguards to protect data during international transfers."
-        },
-        "user-consent": {
-          "title": "13. User Consent",
-          "content": "<strong>13.1. Consent for Data Collection</strong><br>By using our products, you consent to the collection and use of your data as described in this policy.<br><br><strong>13.2. Changes to Consent</strong><br>You may change your consent preferences at any time by contacting us."
-        },
-        "dispute-resolution": {
-          "title": "14. Dispute Resolution",
-          "content": "<strong>14.1. Negotiation</strong><br>We encourage resolving disputes through direct negotiation.<br><br><strong>14.2. Mediation</strong><br>If negotiation fails, disputes will be submitted to mediation before seeking legal remedies.<br><br><strong>14.3. Arbitration</strong><br>If mediation does not resolve the dispute, it will be settled through arbitration according to the rules of an agreed arbitration organization."
-        }
+  "en": {
+    "title": "Privacy Policy",
+    "content": "This Privacy Policy outlines how Muhamed IT Solutions and all our comprehensive digital products collect, use, store, and protect your valuable information. Our product ecosystem includes: Discord Bots (moderation, entertainment, utility, music, economy, gaming bots), Web Applications (dashboards, management panels, analytics platforms), Mobile Applications (iOS and Android apps), Desktop Software (Windows, macOS, Linux applications), APIs and SDKs (developer tools and integration services), Custom Development Services (bespoke software solutions), SaaS Platforms (cloud-based business solutions), E-commerce Solutions (online stores and payment systems), Database Management Systems, AI and Machine Learning Tools, Cybersecurity Solutions, and Cloud Services. By using any product or service from Muhamed IT Solutions, you agree to the terms of this comprehensive policy.",
+    "sections": {
+      "data-collection": {
+        "title": "1. Data Collection",
+        "content": "<strong>1.1. Types of Data Collected</strong><br>Muhamed IT Solutions products across all platforms may collect the following types of data: User identifiers and account information: Essential for identification across Discord bots, web apps, mobile apps, desktop software, and cloud services. Server and device identifiers: For Discord server management, device authentication in mobile/desktop apps, and cloud service provisioning. Messages and interaction logs: Collected from Discord bots, web platforms, mobile apps, and API integrations for moderation, analytics, and service improvements. Transaction and payment data: For e-commerce solutions, SaaS subscriptions, and premium service features (processed securely through encrypted payment gateways). Usage analytics and telemetry: From all applications including mobile apps, desktop software, web platforms, and API usage statistics. File and media uploads: Through web applications, mobile apps, cloud storage services, and content management systems. Location data: When permitted, from mobile applications and location-based services. Biometric data: Only when explicitly required for security features in enterprise solutions with user consent.<br><br><strong>1.2. Data Collection Methods</strong><br>Data is collected through multiple channels: Discord bot interactions, web application usage, mobile app activities, desktop software telemetry, API calls, cloud service usage, payment processing systems, customer support interactions, and automated system logs. All collection methods ensure transparency and user consent."
+      },
+      "data-use": {
+        "title": "2. Data Use",
+        "content": "<strong>2.1. Purposes of Use</strong><br>Data collected across our product ecosystem is used to: Provide seamless functionality across Discord bots, web applications, mobile apps, desktop software, and cloud services. Enable advanced moderation, content filtering, and community management features in Discord environments. Process payments and manage subscriptions for SaaS platforms, premium features, and e-commerce transactions. Deliver personalized experiences in mobile and web applications through AI and machine learning algorithms. Maintain robust security protocols across all platforms including cybersecurity solutions and enterprise tools. Optimize performance and user experience across desktop applications, mobile apps, and cloud infrastructures. Provide customer support and technical assistance for all product categories. Develop new features, improve existing services, and expand our product offerings. Generate analytics and insights for business intelligence and service optimization.<br><br><strong>2.2. Data Sharing</strong><br>Muhamed IT Solutions maintains strict data privacy standards across all product categories. We never share user data with unauthorized third parties, except when legally required, for essential service provision (payment processing, cloud infrastructure), or with explicit user consent for integrations."
+      },
+      "data-retention": {
+        "title": "3. Data Retention",
+        "content": "<strong>3.1. Retention Period</strong><br>User data is securely stored for a maximum period of 30 days. After this period, data is automatically and permanently deleted from our systems unless retention is required by law, for security investigations, or for essential service functionality.<br><br><strong>3.2. Data Protection</strong><br>Muhamed IT Solutions implements industry-leading security measures to safeguard user data from unauthorized access, use, or disclosure. Our comprehensive security infrastructure includes advanced encryption protocols, regular security audits, multi-factor authentication, and strictly controlled access permissions."
+      },
+      "user-rights": {
+        "title": "4. User Rights",
+        "content": "<strong>4.1. Access and Correction</strong><br>You have full rights to request access to any data we store about you and correct any inaccuracies or outdated information. To exercise these rights or make data-related requests, please contact our dedicated support team at: akynsasa@gmail.com<br><br><strong>4.2. Withdrawal of Consent</strong><br>You may withdraw your consent to data collection and storage at any time by discontinuing the use of Muhamed IT Solutions products or by contacting our support team for account deletion and data removal."
+      },
+      "cookies": {
+        "title": "5. Cookies and Tracking",
+        "content": "<strong>5.1. Use of Cookies</strong><br>We utilize cookies and similar tracking technologies to enhance user experience, analyze site usage patterns, and optimize our web-based services. Cookies are small, secure data files stored on your device that help us provide personalized experiences.<br><br><strong>5.2. Managing Cookies</strong><br>You can manage cookie preferences through your browser settings or our cookie management tools. Please note that disabling cookies may limit your ability to use certain advanced features of our web applications and services."
+      },
+      "third-party-services": {
+        "title": "6. Third-Party Services",
+        "content": "<strong>6.1. Integration</strong><br>Our diverse product portfolio integrates with numerous third-party services: Discord API for bot functionality, Payment processors (Stripe, PayPal) for e-commerce and SaaS billing, Cloud providers (AWS, Google Cloud, Azure) for infrastructure, Mobile app stores (Google Play, App Store) for distribution, Social media platforms for authentication and sharing, Email services for notifications and marketing, Analytics platforms (Google Analytics) for usage insights, CDN services for content delivery, Database providers for data storage, AI/ML services for enhanced functionality, and other business tools for enterprise solutions.<br><br><strong>6.2. Data Sharing with Third Parties</strong><br>We maintain strict data sharing policies across all products. Personal data may be shared with trusted partners only for: Payment processing in e-commerce and SaaS platforms, Cloud infrastructure services for data storage and processing, Mobile app analytics for performance optimization, Email service providers for communications, and Integration services when explicitly authorized by users."
+      },
+      "security": {
+        "title": "7. Security",
+        "content": "<strong>7.1. Security Measures</strong><br>We implement comprehensive, multi-layered security measures including advanced encryption, secure data transmission protocols, regular vulnerability assessments, and real-time monitoring systems to protect your data from unauthorized access, alteration, or destruction.<br><br><strong>7.2. Data Breach Notification</strong><br>In the unlikely event of a data breach, Muhamed IT Solutions will promptly notify all affected users within 72 hours and take immediate corrective actions to mitigate impact, secure systems, and prevent future incidents."
+      },
+      "children": {
+        "title": "8. Children's Privacy",
+        "content": "<strong>8.1. Age Restriction</strong><br>Our products and services are designed for users aged 13 and above, in compliance with Discord's Terms of Service and international privacy laws. We do not knowingly collect personal information from children under 13 years of age.<br><br><strong>8.2. Parental Consent</strong><br>If you are a parent or guardian and believe your child has provided us with personal information, please contact us immediately at akynsasa@gmail.com to request immediate data removal and account deletion."
+      },
+      "changes-to-policy": {
+        "title": "9. Changes to the Policy",
+        "content": "Muhamed IT Solutions may update this Privacy Policy periodically to reflect changes in our services, legal requirements, or industry best practices. We will notify users of significant changes through our official channels. Continued use of any Muhamed IT Solutions product after policy updates constitutes acceptance of the revised terms."
+      },
+      "contact-information": {
+        "title": "10. Contact Information",
+        "content": "For any questions, concerns, suggestions, or support requests regarding this Privacy Policy or our data practices, please don't hesitate to contact our dedicated support team at: akynsasa@gmail.com. We are committed to responding to all inquiries within 24-48 hours."
+      },
+      "data-storage": {
+        "title": "11. Data Storage",
+        "content": "<strong>11.1. Storage Location</strong><br>Data may be stored on secure servers located in different regions worldwide to ensure optimal performance and redundancy. All storage practices comply with applicable international data protection laws including GDPR, CCPA, and other regional privacy regulations.<br><br><strong>11.2. Data Access</strong><br>Access to stored data is strictly limited to authorized Muhamed IT Solutions personnel only and is protected by multi-factor authentication, role-based access controls, and comprehensive audit logging."
+      },
+      "data-transfers": {
+        "title": "12. Data Transfers",
+        "content": "<strong>12.1. International Transfers</strong><br>Data may be transferred to and processed in countries other than your own to provide our global services efficiently. All international transfers comply with applicable data protection laws and international data transfer frameworks.<br><br><strong>12.2. Safeguards</strong><br>We implement appropriate technical and organizational safeguards, including encryption, secure transmission protocols, and contractual protections to ensure data security during international transfers."
+      },
+      "user-consent": {
+        "title": "13. User Consent",
+        "content": "<strong>13.1. Consent for Data Collection</strong><br>By using any Muhamed IT Solutions products or services, you provide informed consent to the collection, processing, and use of your data as described in this comprehensive policy.<br><br><strong>13.2. Changes to Consent</strong><br>You may modify your consent preferences or request data deletion at any time by contacting our support team. We respect your privacy choices and will honor your requests promptly."
+      },
+      "dispute-resolution": {
+        "title": "14. Dispute Resolution",
+        "content": "<strong>14.1. Negotiation</strong><br>Muhamed IT Solutions encourages resolving any disputes through direct, good-faith negotiation with our support team.<br><br><strong>14.2. Mediation</strong><br>If direct negotiation fails to resolve issues, disputes will be submitted to professional mediation before pursuing any legal remedies.<br><br><strong>14.3. Arbitration</strong><br>If mediation does not resolve the dispute, it will be settled through binding arbitration according to the rules of a mutually agreed arbitration organization, conducted in English language."
+      },
+      "legal-compliance": {
+        "title": "15. Legal Compliance",
+        "content": "<strong>15.1. Regulatory Compliance</strong><br>Muhamed IT Solutions adheres to all applicable data protection regulations including GDPR, CCPA, PIPEDA, and other relevant privacy laws in jurisdictions where we operate.<br><br><strong>15.2. Law Enforcement Cooperation</strong><br>We may cooperate with law enforcement agencies when legally required, following proper legal procedures and safeguarding user rights to the maximum extent permitted by law."
+      },
+      "data-portability": {
+        "title": "16. Data Portability",
+        "content": "<strong>16.1. Data Export</strong><br>Users have the right to request a copy of their personal data in a structured, commonly used, and machine-readable format for transfer to other services.<br><br><strong>16.2. Transfer Process</strong><br>Data export requests will be processed within 30 days of verification. Large datasets may require additional processing time, and users will be notified of any delays."
+      },
+      "automated-processing": {
+        "title": "17. Automated Processing",
+        "content": "<strong>17.1. Automated Decision Making</strong><br>Our systems may use automated processing for moderation decisions, spam detection, and user experience optimization. Users have the right to request human review of automated decisions that significantly affect them.<br><br><strong>17.2. AI and Machine Learning</strong><br>We employ artificial intelligence and machine learning algorithms to improve our services. These systems are regularly audited for bias and accuracy to ensure fair treatment of all users."
+      },
+      "data-minimization": {
+        "title": "18. Data Minimization",
+        "content": "<strong>18.1. Minimal Data Collection</strong><br>Muhamed IT Solutions follows the principle of data minimization, collecting only the data necessary for specific, legitimate purposes as outlined in this policy.<br><br><strong>18.2. Purpose Limitation</strong><br>Personal data collected for one purpose will not be used for unrelated purposes without obtaining additional consent from the user."
+      },
+      "backup-and-recovery": {
+        "title": "19. Backup and Recovery",
+        "content": "<strong>19.1. Data Backups</strong><br>We maintain secure backups of user data to ensure service continuity and data recovery in case of technical failures. Backup data is subject to the same security and retention policies as primary data.<br><br><strong>19.2. Disaster Recovery</strong><br>Our disaster recovery procedures ensure rapid restoration of services while maintaining data integrity and user privacy throughout the recovery process."
+      },
+      "cross-border-transfers": {
+        "title": "20. Cross-Border Data Transfers",
+        "content": "<strong>20.1. International Operations</strong><br>As a global service provider, Muhamed IT Solutions may transfer personal data across international borders to provide our services effectively and efficiently.<br><br><strong>20.2. Adequacy Decisions</strong><br>We ensure that international data transfers comply with adequacy decisions and use appropriate safeguards such as Standard Contractual Clauses when transferring data to countries without adequacy decisions."
+      },
+      "biometric-data": {
+        "title": "21. Biometric and Sensitive Data",
+        "content": "<strong>21.1. Biometric Data Policy</strong><br>Muhamed IT Solutions does not collect biometric data such as fingerprints, facial recognition data, or voice prints unless explicitly required for specific security features with user consent.<br><br><strong>21.2. Sensitive Information</strong><br>We do not intentionally collect sensitive personal information including health data, political opinions, religious beliefs, or sexual orientation unless legally required or with explicit user consent."
+      },
+      "marketing-communications": {
+        "title": "22. Marketing and Communications",
+        "content": "<strong>22.1. Marketing Preferences</strong><br>Users can opt-in or opt-out of marketing communications at any time. We respect user preferences and provide clear unsubscribe mechanisms in all marketing communications.<br><br><strong>22.2. Communication Channels</strong><br>We may communicate with users through Discord, email, or in-app notifications for service updates, security alerts, and promotional content based on user preferences."
+      },
+      "data-quality": {
+        "title": "23. Data Quality and Accuracy",
+        "content": "<strong>23.1. Data Accuracy</strong><br>Muhamed IT Solutions takes reasonable steps to ensure that personal data is accurate, complete, and up-to-date. Users are encouraged to update their information regularly.<br><br><strong>23.2. Data Verification</strong><br>We may implement verification procedures for certain types of data to maintain accuracy and prevent fraud while respecting user privacy."
+      },
+      "service-providers": {
+        "title": "24. Service Providers and Processors",
+        "content": "<strong>24.1. Third-Party Processors</strong><br>We may engage trusted service providers to process personal data on our behalf. All processors are bound by strict contractual obligations to protect user data and comply with applicable privacy laws.<br><br><strong>24.2. Due Diligence</strong><br>Muhamed IT Solutions conducts thorough due diligence on all service providers, including security assessments and privacy compliance reviews before engaging their services."
+      },
+      "emergency-procedures": {
+        "title": "25. Emergency Procedures",
+        "content": "<strong>25.1. Emergency Data Access</strong><br>In emergency situations involving immediate threats to safety or security, Muhamed IT Solutions may access user data as necessary to prevent harm, following internal emergency protocols.<br><br><strong>25.2. Post-Emergency Review</strong><br>All emergency data access is logged and reviewed post-incident to ensure compliance with privacy principles and legal requirements. Users affected by emergency procedures will be notified when legally and safely possible."
       }
-    },
-    "uk": {
-      "title": "Політика конфіденційності.",
-      "content": "Ця Політика конфіденційності описує, як всі продукти та боти, розроблені компанією Muhamed IT Solutions, збирають, використовують, зберігають і захищають інформацію про користувачів. Використовуючи будь-який продукт або послугу від Muhamed IT Solutions, ви погоджуєтеся з умовами цієї політики.",
-      "sections": {
-        "data-collection": {
-          "title": "1. Збір даних",
-          "content": "<strong>1.1. Види зібраних даних</strong><br>Продукти Muhamed IT Solutions можуть збирати такі види даних: Ідентифікатори користувачів та серверів: Для ідентифікації, модерації та надання послуг. Повідомлення та журнали: Збираються для модерації, аналізу активності та покращення функціональності продукту. Метадані: Включаючи часові мітки, інформацію про канали та взаємодії користувачів.<br><br><strong>1.2. Методи збору даних</strong><br>Дані збираються автоматично під час вашої взаємодії з продуктами Muhamed IT Solutions. Ми не збираємо дані без вашого відома чи згоди."
-        },
-        "data-use": {
-          "title": "2. Використання даних",
-          "content": "<strong>2.1. Мета використання</strong><br>Зібрані дані використовуються для: Забезпечення правильної модерації та управління серверами, що використовують наші продукти. Аналізу та покращення продуктивності та функціональності продуктів. Підтримки безпеки та запобігання зловживанням, зловживанням або зловмисній діяльності в межах продуктів.<br><br><strong>2.2. Обмін даними</strong><br>Ми не передаємо дані користувачів третім сторонам, за винятком випадків, коли це вимагає закон або коли це необхідно для надання основних послуг у боті."
-        },
-        "data-retention": {
-          "title": "3. Зберігання даних",
-          "content": "<strong>3.1. Період зберігання</strong><br>Дані користувачів зберігаються протягом 30 днів. Після цього періоду дані автоматично видаляються, якщо інше не передбачено законом або з міркувань безпеки.<br><br><strong>3.2. Захист даних</strong><br>Muhamed IT Solutions вживає розумних заходів для захисту даних користувачів від несанкціонованого доступу, використання або розкриття. Механізми безпеки включають шифрування, регулярні аудити безпеки та контрольований доступ."
-        },
-        "user-rights": {
-          "title": "4. Права користувачів",
-          "content": "<strong>4.1. Доступ та виправлення</strong><br>Ви маєте право запитати доступ до даних, які ми зберігаємо про вас, і виправити будь-які неточності. Щоб зробити такий запит, будь ласка, зв'яжіться з нами через: akynsasa@gmail.com .<br><br><strong>4.2. Відмова від згоди</strong><br>Ви можете відкликати свою згоду на збір і зберігання ваших даних у будь-який час, припинивши використання продуктів Muhamed IT Solutions."
-        },
-        "cookies": {
-          "title": "5. Cookies",
-          "content": "<strong>5.1. Використання Cookies</strong><br>Ми використовуємо cookies для покращення досвіду користувачів і аналізу використання сайту. Cookies - це невеликі файли даних, що зберігаються на вашому пристрої.<br><br><strong>5.2. Керування Cookies</strong><br>Ви можете керувати налаштуваннями cookies через налаштування вашого браузера. Вимкнення cookies може вплинути на вашу здатність використовувати певні функції наших продуктів."
-        },
-        "third-party-services": {
-          "title": "6. Послуги третіх осіб",
-          "content": "<strong>6.1. Інтеграція</strong><br>Наші продукти можуть інтегруватися з послугами третіх осіб. Ми не несемо відповідальності за практики конфіденційності цих послуг.<br><br><strong>6.2. Обмін даними з третіми особами</strong><br>Ми не передаємо ваші дані третім особам, за винятком випадків, необхідних для надання послуг або відповідно до закону."
-        },
-        "security": {
-          "title": "7. Безпека",
-          "content": "<strong>7.1. Заходи безпеки</strong><br>Ми впроваджуємо різні заходи безпеки для захисту ваших даних від несанкціонованого доступу, зміни або знищення.<br><br><strong>7.2. Сповіщення про порушення даних</strong><br>У разі порушення безпеки даних ми сповістимо постраждалих користувачів і вживемо необхідних заходів для пом'якшення наслідків."
-        },
-        "children": {
-          "title": "8. Конфіденційність дітей",
-          "content": "<strong>8.1. Обмеження віку</strong><br>Наші продукти не призначені для осіб молодше 13 років. Ми не збираємо дані від дітей до 13 років без їхнього відома.<br><br><strong>8.2. Згода батьків</strong><br>Якщо ви є батьком або опікуном і вважаєте, що ваша дитина надала нам особисту інформацію, будь ласка, зв'яжіться з нами для запиту на видалення."
-        },
-        "changes-to-policy": {
-          "title": "9. Зміни в політиці",
-          "content": "Ми можемо оновлювати цю Політику конфіденційності час від часу. Продовження використання будь-якого продукту Muhamed IT Solutions після змін у політиці є підтвердженням вашого прийняття оновлених умов."
-        },
-        "contact-information": {
-          "title": "10. Контактна інформація",
-          "content": "Якщо у вас є будь-які питання, занепокоєння або пропозиції щодо цієї Політики конфіденційності, будь ласка, зв'яжіться з нами: akynsasa@gmail.com ."
-        },
-        "data-storage": {
-          "title": "11. Зберігання даних",
-          "content": "<strong>11.1. Місце зберігання</strong><br>Дані можуть зберігатися на серверах, розташованих у різних регіонах. Ми забезпечуємо відповідність всіх практик зберігання даних чинним законам про захист даних.<br><br><strong>11.2. Доступ до даних</strong><br>Доступ до збережених даних обмежений лише уповноваженим персоналом і захищений контролем доступу."
-        },
-        "data-transfers": {
-          "title": "12. Передача даних",
-          "content": "<strong>12.1. Міжнародні передачі</strong><br>Дані можуть бути передані і оброблені в країнах, відмінних від вашої. Ми забезпечуємо, щоб такі передачі відповідали чинним законам про захист даних.<br><br><strong>12.2. Захисні заходи</strong><br>Ми впроваджуємо відповідні захисні заходи для захисту даних під час міжнародних передач."
-        },
-        "user-consent": {
-          "title": "13. Згода користувача",
-          "content": "<strong>13.1. Згода на збір даних</strong><br>Використовуючи наші продукти, ви даєте згоду на збір та використання ваших даних, як описано в цій політиці.<br><br><strong>13.2. Зміни в згоді</strong><br>Ви можете змінювати свої уподобання щодо згоди в будь-який час, зв'язавшись з нами."
-        },
-        "dispute-resolution": {
-          "title": "14. Вирішення суперечок",
-          "content": "<strong>14.1. Переговори</strong><br>Ми заохочуємо вирішувати суперечки шляхом прямого переговорів.<br><br><strong>14.2. Медіація</strong><br>Якщо переговори не принесуть результату, суперечки будуть передані на медіацію перед тим, як шукати юридичні засоби.<br><br><strong>14.3. Арбітраж</strong><br>Якщо медіація не вирішить суперечку, вона буде вирішена шляхом арбітражу згідно з правилами погодженої арбітражної організації."
-        }
-      }
-    },
+    }
+  },
   "ru": {
-    "title": "Политика приватности.",
-    "content": "Эта Политика приватности описывает, как все продукты и боты, разработанные компанией Muhamed IT Solutions, собирают, используют, хранят и защищают информацию пользователей. Используя любой продукт или услугу от Muhamed IT Solutions, вы соглашаетесь с условиями этой политики.",
+    "title": "Политика конфиденциальности",
+    "content": "Настоящая Политика конфиденциальности описывает, каким образом компания Muhamed IT Solutions и все наши цифровые продукты собирают, используют, хранят и защищают ваши данные. Наша экосистема продуктов включает: Discord-ботов (модерация, развлечения, утилиты, музыка, экономика, игровые боты), веб-приложения (дашборды, панели управления, аналитические платформы), мобильные приложения (iOS и Android), настольное ПО (Windows, macOS, Linux), API и SDK (инструменты для разработчиков и интеграции), услуги индивидуальной разработки (кастомные решения), SaaS-платформы (облачные бизнес-решения), e-commerce решения (интернет-магазины и платёжные системы), системы управления базами данных, инструменты ИИ и машинного обучения, решения по кибербезопасности и облачные сервисы. Используя любой продукт или услугу Muhamed IT Solutions, вы соглашаетесь с условиями данной политики.",
     "sections": {
       "data-collection": {
         "title": "1. Сбор данных",
-        "content": "<strong>1.1. Типы собираемых данных</strong><br>Продукты Muhamed IT Solutions могут собирать следующие типы данных: Идентификаторы пользователей и серверов: Для идентификации, модерации и предоставления услуг. Сообщения и логи: Собираются для модерации, анализа активности и улучшения функциональности продукта. Метаданные: Включая временные метки, информацию о каналах и взаимодействия пользователей.<br><br><strong>1.2. Методы сбора данных</strong><br>Данные собираются автоматически во время ваших взаимодействий с продуктами Muhamed IT Solutions. Мы не собираем данные без вашего ведома или согласия."
+        "content": "<strong>1.1. Типы собираемых данных</strong><br>Продукты Muhamed IT Solutions могут собирать следующие данные: Идентификаторы пользователей и аккаунтов, идентификаторы серверов и устройств, сообщения и журналы взаимодействий, транзакционные и платёжные данные, аналитику и телеметрию использования, файлы и медиа-загрузки, данные о местоположении (при разрешении), биометрические данные (только при явном согласии).<br><br><strong>1.2. Методы сбора данных</strong><br>Данные собираются через: взаимодействия с Discord-ботами, использование веб- и мобильных приложений, настольное ПО, API-запросы, облачные сервисы, платёжные системы, службы поддержки и автоматизированные системные журналы."
       },
       "data-use": {
         "title": "2. Использование данных",
-        "content": "<strong>2.1. Цели использования</strong><br>Собранные данные используются для: Обеспечения надлежащей модерации и управления серверами с использованием наших продуктов. Анализа и улучшения производительности и функциональности продуктов. Поддержания безопасности и предотвращения злоупотреблений, нарушений или злонамеренной активности в рамках продуктов.<br><br><strong>2.2. Обмен данными</strong><br>Мы не передаем данные пользователей третьим лицам, за исключением случаев, предусмотренных законом или необходимых для предоставления основных услуг в боте."
+        "content": "<strong>2.1. Цели использования</strong><br>Собранные данные применяются для обеспечения работы сервисов, модерации и управления сообществами, обработки платежей, персонализации опыта, обеспечения безопасности, оптимизации производительности, поддержки пользователей, разработки новых функций и бизнес-аналитики.<br><br><strong>2.2. Передача данных</strong><br>Muhamed IT Solutions не передаёт данные третьим лицам без разрешения, кроме случаев, предусмотренных законом, необходимых для предоставления услуг (например, обработка платежей, облачная инфраструктура) или с согласия пользователя."
       },
       "data-retention": {
         "title": "3. Хранение данных",
-        "content": "<strong>3.1. Период хранения</strong><br>Данные пользователей хранятся в течение 30 дней. По истечении этого периода данные автоматически удаляются, если это не предусмотрено законом или по соображениям безопасности.<br><br><strong>3.2. Защита данных</strong><br>Muhamed IT Solutions принимает разумные меры для защиты данных пользователей от несанкционированного доступа, использования или раскрытия. Меры безопасности включают шифрование, регулярные аудиты безопасности и контролируемый доступ."
+        "content": "<strong>3.1. Срок хранения</strong><br>Данные пользователей хранятся до 30 дней, после чего автоматически удаляются, если иное не требуется законом, безопасностью или функционированием сервиса.<br><br><strong>3.2. Защита данных</strong><br>Мы используем передовые методы защиты, включая шифрование, аудит безопасности, многофакторную аутентификацию и ограничение доступа."
       },
       "user-rights": {
         "title": "4. Права пользователей",
-        "content": "<strong>4.1. Доступ и исправление</strong><br>Вы имеете право запросить доступ к данным, которые мы храним о вас, и исправить любые неточности. Чтобы сделать такой запрос, пожалуйста, свяжитесь с нами через: akynsasa@gmail.com .<br><br><strong>4.2. Отзыв согласия</strong><br>Вы можете отозвать свое согласие на сбор и хранение ваших данных в любое время, прекратив использование продуктов Muhamed IT Solutions."
+        "content": "<strong>4.1. Доступ и исправление</strong><br>Вы имеете право запросить доступ к своим данным и внести исправления. Для этого свяжитесь с поддержкой: akynsasa@gmail.com<br><br><strong>4.2. Отзыв согласия</strong><br>Вы можете отозвать согласие на сбор и хранение данных, прекратив использование сервисов или обратившись в поддержку для удаления аккаунта."
       },
       "cookies": {
-        "title": "5. Cookies",
-        "content": "<strong>5.1. Использование Cookies</strong><br>Мы используем cookies для улучшения пользовательского опыта и анализа использования сайта. Cookies - это небольшие файлы данных, которые хранятся на вашем устройстве.<br><br><strong>5.2. Управление Cookies</strong><br>Вы можете управлять настройками cookies через настройки вашего браузера. Отключение cookies может повлиять на вашу способность использовать определенные функции наших продуктов."
+        "title": "5. Cookies и трекинг",
+        "content": "<strong>5.1. Использование Cookies</strong><br>Мы используем cookies и аналогичные технологии для улучшения работы сервисов, анализа поведения пользователей и персонализации.<br><br><strong>5.2. Управление Cookies</strong><br>Вы можете управлять cookies через настройки браузера или наши инструменты. Отключение cookies может ограничить функционал."
       },
       "third-party-services": {
-        "title": "6. Сервисы третьих сторон",
-        "content": "<strong>6.1. Интеграция</strong><br>Наши продукты могут интегрироваться с сервисами третьих сторон. Мы не несём ответственности за практики конфиденциальности этих сервисов.<br><br><strong>6.2. Обмен данными с третьими сторонами</strong><br>Мы не передаем ваши данные третьим лицам, за исключением случаев, необходимых для предоставления услуг или в соответствии с законом."
+        "title": "6. Сторонние сервисы",
+        "content": "<strong>6.1. Интеграции</strong><br>Наши продукты интегрируются с Discord API, платёжными системами (Stripe, PayPal), облачными провайдерами (AWS, Google Cloud, Azure), магазинами приложений, соцсетями, почтовыми сервисами, аналитикой (Google Analytics), CDN и др.<br><br><strong>6.2. Передача данных сторонним сервисам</strong><br>Данные могут передаваться только надёжным партнёрам для: обработки платежей, облачного хостинга, аналитики приложений, рассылок и интеграций с согласия пользователя."
       },
       "security": {
         "title": "7. Безопасность",
-        "content": "<strong>7.1. Меры безопасности</strong><br>Мы внедряем различные меры безопасности для защиты ваших данных от несанкционированного доступа, изменения или уничтожения.<br><br><strong>7.2. Уведомление о нарушении данных</strong><br>В случае нарушения безопасности данных мы уведомим пострадавших пользователей и примем необходимые меры для смягчения последствий."
+        "content": "<strong>7.1. Меры безопасности</strong><br>Мы применяем шифрование, защищённые протоколы, регулярные проверки и мониторинг.<br><br><strong>7.2. Уведомление о нарушении</strong><br>При утечке данных мы уведомим пользователей в течение 72 часов и примем меры для устранения последствий."
       },
       "children": {
         "title": "8. Конфиденциальность детей",
-        "content": "<strong>8.1. Ограничение по возрасту</strong><br>Наши продукты не предназначены для лиц младше 13 лет. Мы не собираем данные от детей младше 13 лет без их ведома.<br><br><strong>8.2. Согласие родителей</strong><br>Если вы являетесь родителем или опекуном и считаете, что ваш ребенок предоставил нам личную информацию, пожалуйста, свяжитесь с нами для запроса на удаление."
+        "content": "<strong>8.1. Возрастные ограничения</strong><br>Наши сервисы доступны только пользователям старше 13 лет.<br><br><strong>8.2. Согласие родителей</strong><br>Если ребёнок до 13 лет предоставил нам данные, родители могут запросить их удаление: akynsasa@gmail.com"
       },
       "changes-to-policy": {
-        "title": "9. Изменения в политике",
-        "content": "Мы можем время от времени обновлять эту Политику конфиденциальности. Продолжение использования любого продукта Muhamed IT Solutions после изменений в политике означает ваше принятие обновленных условий."
+        "title": "9. Изменения политики",
+        "content": "Muhamed IT Solutions может обновлять политику в связи с изменением сервисов, законодательства или практик безопасности. Продолжение использования сервисов означает согласие с новой редакцией."
       },
       "contact-information": {
         "title": "10. Контактная информация",
-        "content": "Если у вас есть вопросы, замечания или предложения по поводу этой Политики конфиденциальности, не стесняйтесь обращаться к нам: akynsasa@gmail.com ."
+        "content": "По любым вопросам или запросам обращайтесь: akynsasa@gmail.com. Ответ в течение 24–48 часов."
       },
       "data-storage": {
         "title": "11. Хранение данных",
-        "content": "<strong>11.1. Место хранения</strong><br>Данные могут храниться на серверах, расположенных в различных регионах. Мы обеспечиваем соответствие всех практик хранения данных применимым законам о защите данных.<br><br><strong>11.2. Доступ к данным</strong><br>Доступ к хранящимся данным ограничен только уполномоченным персоналом и защищен контролем доступа."
+        "content": "<strong>11.1. Место хранения</strong><br>Данные могут храниться на защищённых серверах по всему миру в соответствии с GDPR, CCPA и другими законами.<br><br><strong>11.2. Доступ</strong><br>Доступ имеют только авторизованные сотрудники, с многофакторной аутентификацией и журналами действий."
       },
       "data-transfers": {
         "title": "12. Передача данных",
-        "content": "<strong>12.1. Международные передачи</strong><br>Данные могут быть переданы и обработаны в странах, отличных от вашей. Мы обеспечиваем, чтобы такие передачи соответствовали применимым законам о защите данных.<br><br><strong>12.2. Защитные меры</strong><br>Мы внедряем соответствующие защитные меры для защиты данных при международных передачах."
+        "content": "<strong>12.1. Международные передачи</strong><br>Мы можем передавать данные в другие страны с соблюдением международных правил.<br><br><strong>12.2. Защита</strong><br>Используются шифрование, защищённые протоколы и юридические гарантии."
       },
       "user-consent": {
         "title": "13. Согласие пользователя",
-        "content": "<strong>13.1. Согласие на сбор данных</strong><br>Используя наши продукты, вы даете согласие на сбор и использование ваших данных, как описано в этой политике.<br><br><strong>13.2. Изменения в согласии</strong><br>Вы можете изменять свои предпочтения по согласованию в любое время, связавшись с нами."
+        "content": "<strong>13.1. Согласие на сбор</strong><br>Используя наши продукты, вы соглашаетесь на сбор и обработку данных.<br><br><strong>13.2. Изменение согласия</strong><br>Вы можете изменить или отозвать согласие, обратившись в поддержку."
       },
       "dispute-resolution": {
         "title": "14. Разрешение споров",
-        "content": "<strong>14.1. Переговоры</strong><br>Мы рекомендуем решать споры путем прямых переговоров.<br><br><strong>14.2. Медицинация</strong><br>Если переговоры не приведут к результату, споры будут переданы на медиацию перед тем, как обращаться к юридическим мерам.<br><br><strong>14.3. Арбитраж</strong><br>Если медиация не решит спор, он будет решен путем арбитража в соответствии с правилами согласованной арбитражной организации."
+        "content": "<strong>14.1. Переговоры</strong><br>Мы рекомендуем решать споры напрямую с поддержкой.<br><br><strong>14.2. Медиация</strong><br>Если переговоры не помогли, возможна медиация.<br><br><strong>14.3. Арбитраж</strong><br>В случае неудачи спор решается через арбитраж."
+      },
+      "legal-compliance": {
+        "title": "15. Законодательство",
+        "content": "<strong>15.1. Соответствие</strong><br>Мы соблюдаем GDPR, CCPA, PIPEDA и другие законы.<br><br><strong>15.2. Сотрудничество с властями</strong><br>Мы сотрудничаем с органами власти только по закону и с защитой прав пользователей."
+      },
+      "data-portability": {
+        "title": "16. Переносимость данных",
+        "content": "<strong>16.1. Экспорт данных</strong><br>Пользователь может запросить копию данных.<br><br><strong>16.2. Сроки</strong><br>Запрос выполняется до 30 дней."
+      },
+      "automated-processing": {
+        "title": "17. Автоматическая обработка",
+        "content": "<strong>17.1. Автоматические решения</strong><br>Наши системы используют автоматическую модерацию и оптимизацию. Вы можете запросить человеческую проверку.<br><br><strong>17.2. Искусственный интеллект</strong><br>ИИ регулярно проверяется на точность и отсутствие предвзятости."
+      },
+      "data-minimization": {
+        "title": "18. Минимизация данных",
+        "content": "<strong>18.1. Принцип минимизации</strong><br>Мы собираем только необходимые данные.<br><br><strong>18.2. Ограничение целей</strong><br>Данные не используются вне заявленных целей без согласия."
+      },
+      "backup-and-recovery": {
+        "title": "19. Резервное копирование и восстановление",
+        "content": "<strong>19.1. Бэкапы</strong><br>Мы храним защищённые резервные копии.<br><br><strong>19.2. Восстановление</strong><br>В случае аварии сервисы восстанавливаются быстро и безопасно."
+      },
+      "cross-border-transfers": {
+        "title": "20. Международные передачи",
+        "content": "<strong>20.1. Глобальные операции</strong><br>Мы передаём данные через границы для эффективной работы.<br><br><strong>20.2. Гарантии</strong><br>Используем стандартные договорные положения и иные меры защиты."
+      },
+      "biometric-data": {
+        "title": "21. Биометрические и чувствительные данные",
+        "content": "<strong>21.1. Биометрия</strong><br>Мы не собираем биометрию без явного согласия.<br><br><strong>21.2. Чувствительные данные</strong><br>Мы не собираем данные о здоровье, политике, религии или ориентации без необходимости и согласия."
+      },
+      "marketing-communications": {
+        "title": "22. Маркетинг и коммуникации",
+        "content": "<strong>22.1. Предпочтения</strong><br>Вы можете подписаться или отказаться от маркетинговых сообщений.<br><br><strong>22.2. Каналы</strong><br>Мы связываемся через Discord, email и уведомления."
+      },
+      "data-quality": {
+        "title": "23. Качество данных",
+        "content": "<strong>23.1. Точность</strong><br>Мы стараемся хранить данные точными и актуальными.<br><br><strong>23.2. Проверка</strong><br>Возможна верификация для предотвращения мошенничества."
+      },
+      "service-providers": {
+        "title": "24. Провайдеры услуг",
+        "content": "<strong>24.1. Сторонние обработчики</strong><br>Мы привлекаем проверенных партнёров для обработки данных.<br><br><strong>24.2. Должная проверка</strong><br>Перед сотрудничеством мы оцениваем их безопасность и соответствие законам."
+      },
+      "emergency-procedures": {
+        "title": "25. Аварийные процедуры",
+        "content": "<strong>25.1. Доступ в чрезвычайных ситуациях</strong><br>При угрозе безопасности мы можем получить доступ к данным.<br><br><strong>25.2. Проверка после ЧС</strong><br>Все действия фиксируются и проверяются, пользователи уведомляются при возможности."
+      }
+    }
+  },
+  "uk": {
+    "title": "Політика конфіденційності",
+    "content": "Ця Політика конфіденційності описує, яким чином компанія Muhamed IT Solutions та всі наші цифрові продукти збирають, використовують, зберігають і захищають ваші дані. Наша екосистема продуктів включає: Discord-ботів (модерація, розваги, утиліти, музика, економіка, ігрові боти), веб-застосунки (дашборди, панелі керування, аналітичні платформи), мобільні застосунки (iOS та Android), настільне ПЗ (Windows, macOS, Linux), API та SDK (інструменти для розробників та інтеграції), послуги індивідуальної розробки (кастомні рішення), SaaS-платформи (хмарні бізнес-рішення), e-commerce рішення (інтернет-магазини та платіжні системи), системи керування базами даних, інструменти ШІ та машинного навчання, рішення з кібербезпеки та хмарні сервіси. Використовуючи будь-який продукт чи послугу Muhamed IT Solutions, ви погоджуєтесь з умовами цієї політики.",
+    "sections": {
+      "data-collection": {
+        "title": "1. Збір даних",
+        "content": "<strong>1.1. Типи зібраних даних</strong><br>Продукти Muhamed IT Solutions можуть збирати такі дані: ідентифікатори користувачів і акаунтів, ідентифікатори серверів та пристроїв, повідомлення та журнали взаємодій, транзакційні та платіжні дані, аналітику і телеметрію використання, файли та медіа-завантаження, дані про місцеперебування (за дозволом), біометричні дані (тільки за явною згодою).<br><br><strong>1.2. Методи збору даних</strong><br>Дані збираються через: взаємодії з Discord-ботами, використання веб- і мобільних застосунків, настільне ПЗ, API-запити, хмарні сервіси, платіжні системи, служби підтримки та автоматизовані системні журнали."
+      },
+      "data-use": {
+        "title": "2. Використання даних",
+        "content": "<strong>2.1. Цілі використання</strong><br>Зібрані дані застосовуються для забезпечення роботи сервісів, модерації та управління спільнотами, обробки платежів, персоналізації досвіду, забезпечення безпеки, оптимізації продуктивності, підтримки користувачів, розробки нових функцій та бізнес-аналітики.<br><br><strong>2.2. Передача даних</strong><br>Muhamed IT Solutions не передає дані третім особам без дозволу, окрім випадків, передбачених законом, необхідних для надання послуг (наприклад, обробка платежів, хмарна інфраструктура) або за згодою користувача."
+      },
+      "data-retention": {
+        "title": "3. Зберігання даних",
+        "content": "<strong>3.1. Термін зберігання</strong><br>Дані користувачів зберігаються до 30 днів, після чого автоматично видаляються, якщо інше не вимагається законом, безпекою чи функціонуванням сервісу.<br><br><strong>3.2. Захист даних</strong><br>Ми використовуємо передові методи захисту, включно з шифруванням, аудитом безпеки, багатофакторною автентифікацією та обмеженням доступу."
+      },
+      "user-rights": {
+        "title": "4. Права користувачів",
+        "content": "<strong>4.1. Доступ і виправлення</strong><br>Ви маєте право запросити доступ до своїх даних і внести виправлення. Для цього зверніться до підтримки: akynsasa@gmail.com<br><br><strong>4.2. Відкликання згоди</strong><br>Ви можете відкликати згоду на збір і зберігання даних, припинивши використання сервісів або звернувшись до підтримки для видалення акаунта."
+      },
+      "cookies": {
+        "title": "5. Cookies та трекінг",
+        "content": "<strong>5.1. Використання Cookies</strong><br>Ми використовуємо cookies та подібні технології для покращення роботи сервісів, аналізу поведінки користувачів і персоналізації.<br><br><strong>5.2. Керування Cookies</strong><br>Ви можете керувати cookies через налаштування браузера або наші інструменти. Вимкнення cookies може обмежити функціонал."
+      },
+      "third-party-services": {
+        "title": "6. Сторонні сервіси",
+        "content": "<strong>6.1. Інтеграції</strong><br>Наші продукти інтегруються з Discord API, платіжними системами (Stripe, PayPal), хмарними провайдерами (AWS, Google Cloud, Azure), магазинами застосунків, соцмережами, поштовими сервісами, аналітикою (Google Analytics), CDN тощо.<br><br><strong>6.2. Передача даних стороннім сервісам</strong><br>Дані можуть передаватися лише надійним партнерам для: обробки платежів, хмарного хостингу, аналітики застосунків, розсилок та інтеграцій за згодою користувача."
+      },
+      "security": {
+        "title": "7. Безпека",
+        "content": "<strong>7.1. Заходи безпеки</strong><br>Ми застосовуємо шифрування, захищені протоколи, регулярні перевірки та моніторинг.<br><br><strong>7.2. Повідомлення про порушення</strong><br>У разі витоку даних ми повідомимо користувачів протягом 72 годин і вживемо заходів для усунення наслідків."
+      },
+      "children": {
+        "title": "8. Конфіденційність дітей",
+        "content": "<strong>8.1. Вікові обмеження</strong><br>Наші сервіси доступні лише користувачам від 13 років.<br><br><strong>8.2. Згода батьків</strong><br>Якщо дитина до 13 років надала нам дані, батьки можуть запросити їх видалення: akynsasa@gmail.com"
+      },
+      "changes-to-policy": {
+        "title": "9. Зміни політики",
+        "content": "Muhamed IT Solutions може оновлювати політику у зв’язку зі зміною сервісів, законодавства чи практик безпеки. Продовження використання сервісів означає згоду з новою редакцією."
+      },
+      "contact-information": {
+        "title": "10. Контактна інформація",
+        "content": "З усіх питань чи запитів звертайтеся: akynsasa@gmail.com. Відповідь протягом 24–48 годин."
+      },
+      "data-storage": {
+        "title": "11. Зберігання даних",
+        "content": "<strong>11.1. Місце зберігання</strong><br>Дані можуть зберігатися на захищених серверах по всьому світу відповідно до GDPR, CCPA та інших законів.<br><br><strong>11.2. Доступ</strong><br>Доступ мають лише авторизовані співробітники з багатофакторною автентифікацією та журналами дій."
+      },
+      "data-transfers": {
+        "title": "12. Передача даних",
+        "content": "<strong>12.1. Міжнародні передачі</strong><br>Ми можемо передавати дані в інші країни з дотриманням міжнародних правил.<br><br><strong>12.2. Захист</strong><br>Використовуються шифрування, захищені протоколи та юридичні гарантії."
+      },
+      "user-consent": {
+        "title": "13. Згода користувача",
+        "content": "<strong>13.1. Згода на збір</strong><br>Використовуючи наші продукти, ви погоджуєтесь на збір і обробку даних.<br><br><strong>13.2. Зміна згоди</strong><br>Ви можете змінити чи відкликати згоду, звернувшись у підтримку."
+      },
+      "dispute-resolution": {
+        "title": "14. Вирішення спорів",
+        "content": "<strong>14.1. Переговори</strong><br>Ми рекомендуємо вирішувати спори безпосередньо з підтримкою.<br><br><strong>14.2. Медіація</strong><br>Якщо переговори не допомогли — можлива медіація.<br><br><strong>14.3. Арбітраж</strong><br>У разі невдачі спір вирішується через арбітраж."
+      },
+      "legal-compliance": {
+        "title": "15. Законодавство",
+        "content": "<strong>15.1. Відповідність</strong><br>Ми дотримуємось GDPR, CCPA, PIPEDA та інших законів.<br><br><strong>15.2. Співпраця з владою</strong><br>Ми співпрацюємо з органами влади лише за законом і з захистом прав користувачів."
+      },
+      "data-portability": {
+        "title": "16. Портативність даних",
+        "content": "<strong>16.1. Експорт даних</strong><br>Користувач може запросити копію даних.<br><br><strong>16.2. Терміни</strong><br>Запит виконується до 30 днів."
+      },
+      "automated-processing": {
+        "title": "17. Автоматична обробка",
+        "content": "<strong>17.1. Автоматичні рішення</strong><br>Наші системи використовують автоматичну модерацію та оптимізацію. Ви можете запросити людську перевірку.<br><br><strong>17.2. Штучний інтелект</strong><br>ШІ регулярно перевіряється на точність та відсутність упередженості."
+      },
+      "data-minimization": {
+        "title": "18. Мінімізація даних",
+        "content": "<strong>18.1. Принцип мінімізації</strong><br>Ми збираємо тільки необхідні дані.<br><br><strong>18.2. Обмеження цілей</strong><br>Дані не використовуються поза заявленими цілями без згоди."
+      },
+      "backup-and-recovery": {
+        "title": "19. Резервне копіювання і відновлення",
+        "content": "<strong>19.1. Бекапи</strong><br>Ми зберігаємо захищені резервні копії.<br><br><strong>19.2. Відновлення</strong><br>У разі аварії сервіси відновлюються швидко і безпечно."
+      },
+      "cross-border-transfers": {
+        "title": "20. Міжнародні передачі",
+        "content": "<strong>20.1. Глобальні операції</strong><br>Ми передаємо дані через кордони для ефективної роботи.<br><br><strong>20.2. Гарантії</strong><br>Використовуємо стандартні договірні положення та інші заходи захисту."
+      },
+      "biometric-data": {
+        "title": "21. Біометричні та чутливі дані",
+        "content": "<strong>21.1. Біометрія</strong><br>Ми не збираємо біометрію без явної згоди.<br><br><strong>21.2. Чутливі дані</strong><br>Ми не збираємо дані про здоров’я, політику, релігію чи орієнтацію без необхідності та згоди."
+      },
+      "marketing-communications": {
+        "title": "22. Маркетинг і комунікації",
+        "content": "<strong>22.1. Налаштування</strong><br>Ви можете підписатися або відмовитися від маркетингових повідомлень.<br><br><strong>22.2. Канали</strong><br>Ми зв’язуємось через Discord, email і сповіщення."
+      },
+      "data-quality": {
+        "title": "23. Якість даних",
+        "content": "<strong>23.1. Точність</strong><br>Ми намагаємося зберігати дані точними й актуальними.<br><br><strong>23.2. Перевірка</strong><br>Можлива верифікація для запобігання шахрайству."
+      },
+      "service-providers": {
+        "title": "24. Провайдери послуг",
+        "content": "<strong>24.1. Сторонні обробники</strong><br>Ми залучаємо перевірених партнерів для обробки даних.<br><br><strong>24.2. Належна перевірка</strong><br>Перед співпрацею ми оцінюємо їхню безпеку та відповідність законам."
+      },
+      "emergency-procedures": {
+        "title": "25. Аварійні процедури",
+        "content": "<strong>25.1. Доступ у надзвичайних ситуаціях</strong><br>У разі загрози безпеці ми можемо отримати доступ до даних.<br><br><strong>25.2. Перевірка після НС</strong><br>Усі дії фіксуються й перевіряються, користувачі повідомляються за можливості."
       }
     }
   }

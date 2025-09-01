@@ -1,141 +1,200 @@
 {
-  "en": {
-    "title": "Terms of Use.",
-    "content": "These Terms of Use govern your use of the ProAssist bot and all related products and services. By using the ProAssist bot, you agree to these terms.",
+  "ru": {
+    "title": "Условия обслуживания",
+    "content": "Эти Условия обслуживания регулируют использование продукции и услуг компании Muhamed IT Solutions. Используя продукцию и услуги компании, вы соглашаетесь с этими условиями.",
     "sections": {
       "acceptance": {
-        "title": "1. Acceptance of Terms",
-        "content": "<strong>1.1. Agreement</strong><br>By continuing to use the ProAssist bot, you agree to abide by these Terms of Use and all applicable laws.<br><br><strong>1.2. Legal Representatives</strong><br>If you are a legal representative (parent or guardian) of a minor user, you agree to these terms on your behalf and on behalf of the minor.<br><br><strong>1.3. Age Requirement</strong><br>You must be of legal age to use the bot, as required by Discord's terms.<br><br><strong>1.4. Privacy Policy</strong><br>By using the bot, you also agree to the ProAssist Privacy Policy.<br><br><strong>1.5. Changes</strong><br>We may modify these Terms of Service and the Privacy Policy at any time without notice. Continued use signifies acceptance of the updated terms."
+        "title": "1. Принятие условий",
+        "content": "<strong>1.1. Согласие</strong><br>Продолжая использовать продукцию и услуги компании Muhamed IT Solutions, вы соглашаетесь соблюдать эти Условия обслуживания и все применимые законы.<br><br><strong>1.2. Законные представители</strong><br>Если вы являетесь законным представителем (родителем или опекуном) несовершеннолетнего пользователя, вы соглашаетесь с этими условиями от своего имени и от имени несовершеннолетнего.<br><br><strong>1.3. Возраст</strong><br>Вы должны быть совершеннолетним для использования продукции и услуг компании.<br><br><strong>1.4. Политика конфиденциальности</strong><br>Используя продукцию и услуги компании, вы также соглашаетесь с нашей Политикой конфиденциальности.<br><br><strong>1.5. Изменения условий</strong><br>Компания оставляет за собой право изменять условия обслуживания и Политику конфиденциальности в любое время без предварительного уведомления. Продолжение использования означает согласие с обновлёнными условиями."
       },
       "disclaimer": {
-        "title": "2. Disclaimer",
-        "content": "<strong>2.1. Limitation of Liability</strong><br>The bot developer and administration are not responsible for any damage resulting from improper use or configuration of the bot. All settings are provided \"as is,\" and usage is at your own risk.<br><br><strong>2.2. Operational Changes</strong><br>We reserve the right to modify, suspend, or terminate the bot at any time without notice. We are not liable for any losses or disruptions caused by these changes.<br><br><strong>2.3. Technical Issues</strong><br>We do not guarantee uninterrupted access. Technical issues may cause downtime, data loss, or errors. We are not liable for any inconveniences caused by such issues.<br><br><strong>2.4. Functionality Restrictions</strong><br>We reserve the right to block or restrict functionality for any user or server without explanation."
+        "title": "2. Отказ от ответственности",
+        "content": "<strong>2.1. Ограничение ответственности</strong><br>Компания не несёт ответственность за ущерб, возникший в результате неправильного использования или настройки продуктов и услуг. Все услуги предоставляются \"как есть\", и использование осуществляется на ваш страх и риск.<br><br><strong>2.2. Операционные изменения</strong><br>Мы можем изменять, приостанавливать или прекращать работу продуктов и услуг в любое время без уведомления. Мы не несём ответственности за убытки или перебои, вызванные этими изменениями.<br><br><strong>2.3. Технические проблемы</strong><br>Компания не гарантирует непрерывный доступ. Технические проблемы могут вызвать простои, потерю данных или ошибки.<br><br><strong>2.4. Ограничения функциональности</strong><br>Компания оставляет за собой право ограничивать функциональность продуктов и услуг для любого пользователя или организации без объяснения причин."
       },
-      "donations": {
-        "title": "3. Donations",
-        "content": "<strong>3.1. Voluntary Contributions</strong><br>All donations are voluntary and non-refundable.<br><br><strong>3.2. Promotions</strong><br>We may offer rewards for donations but do not guarantee their permanence. Terms of promotions may change, and users will be notified on the official Discord Community Server."
+      "payments": {
+        "title": "3. Платежи и пожертвования",
+        "content": "<strong>3.1. Добровольные взносы</strong><br>Любые платежи или пожертвования являются добровольными и не подлежат возврату.<br><br><strong>3.2. Акции и бонусы</strong><br>Компания может предлагать вознаграждения за оплату, но не гарантирует их постоянство. Условия акций могут изменяться."
       },
       "usage-rules": {
-        "title": "4. Rules for Using the Bot",
-        "content": "<strong>4.1. Violations</strong><br>Violations of the usage rules may result in a permanent ban from the bot, the Community Server, and partner projects. The severity of the punishment is at the Administration's discretion.<br><br><strong>4.2. Exploitation of Bugs</strong><br>Exploiting bugs or deficiencies for personal gain is prohibited.<br><br><strong>4.3. Disruption</strong><br>Attempting to disrupt the bot’s functionality by creating artificial load or exploiting bugs is prohibited.<br><br><strong>4.4. Blocking Circumvention</strong><br>Bypassing the bot’s blocking mechanisms is prohibited.<br><br><strong>4.5. Harmful Use</strong><br>Using the bot to harm any server or individual, or to violate Discord's terms or applicable laws, is prohibited.<br><br><strong>4.6. Public Criticism</strong><br>Public insults or unfounded criticism of the bot, the developer, the team, other users, or the Community Server are prohibited."
+        "title": "4. Правила использования",
+        "content": "<strong>4.1. Нарушения</strong><br>Нарушение правил использования продукции или услуг может привести к ограничению доступа или отказу в обслуживании.<br><br><strong>4.2. Использование ошибок</strong><br>Использование ошибок или недостатков продукции и услуг для личной выгоды запрещено.<br><br><strong>4.3. Нарушение работы</strong><br>Серьёзные попытки нарушить работу услуг или продуктов запрещены.<br><br><strong>4.4. Обход ограничений</strong><br>Обход механизмов ограничения доступа запрещён.<br><br><strong>4.5. Нанесение вреда</strong><br>Использование продукции или услуг для нанесения вреда запрещено.<br><br><strong>4.6. Публичная критика</strong><br>Публичные оскорбления или необоснованная критика компании или её сотрудников запрещены."
       },
       "termination": {
-        "title": "5. Termination",
-        "content": "<strong>5.1. Termination by Us</strong><br>We may terminate or suspend your access to the bot at any time if we believe you have violated these terms.<br><br><strong>5.2. Termination by You</strong><br>You may stop using the bot at any time and terminate your account by discontinuing use and notifying us.<br><br><strong>5.3. Effects of Termination</strong><br>Upon termination, you lose the right to use the bot and must delete any copies in your possession."
+        "title": "5. Прекращение обслуживания",
+        "content": "<strong>5.1. Со стороны компании</strong><br>Компания может прекратить или приостановить предоставление услуг при нарушении условий.<br><br><strong>5.2. Со стороны пользователя</strong><br>Вы можете прекратить использование услуг в любое время.<br><br><strong>5.3. Последствия</strong><br>После прекращения вы теряете право на использование продукции и услуг и должны удалить все копии."
       },
       "governing-law": {
-        "title": "6. Governing Law",
-        "content": "These Terms of Use are governed by and construed in accordance with the laws of the jurisdiction where ProAssist operates. Any disputes arising from these terms will be subject to the exclusive jurisdiction of the courts in that jurisdiction."
+        "title": "6. Применимое право",
+        "content": "Эти условия регулируются законами юрисдикции, где зарегистрирована компания Muhamed IT Solutions. Все споры подлежат исключительной юрисдикции соответствующих судов."
       },
       "dispute-resolution": {
-        "title": "7. Dispute Resolution",
-        "content": "<strong>7.1. Negotiation</strong><br>We encourage resolving disputes through direct negotiation.<br><br><strong>7.2. Mediation</strong><br>If negotiations fail, disputes will be submitted to mediation before seeking legal remedies.<br><br><strong>7.3. Arbitration</strong><br>If mediation is unsuccessful, disputes will be resolved through arbitration in accordance with agreed-upon arbitration rules."
+        "title": "7. Разрешение споров",
+        "content": "<strong>7.1. Переговоры</strong><br>Мы рекомендуем решать споры через прямые переговоры.<br><br><strong>7.2. Медиация</strong><br>Если переговоры не удачны, споры могут быть переданы на медиацию.<br><br><strong>7.3. Арбитраж</strong><br>Если медиация не помогает, спор разрешается через арбитраж."
       },
       "account-security": {
-        "title": "8. Account Security",
-        "content": "<strong>8.1. Responsibility</strong><br>You are responsible for maintaining the confidentiality of your account and any associated passwords. You agree to notify us immediately of any unauthorized use of your account.<br><br><strong>8.2. Security Measures</strong><br>We take reasonable measures to ensure the security of our bot, but we cannot guarantee that unauthorized third parties will never be able to defeat those measures."
+        "title": "8. Безопасность аккаунта",
+        "content": "<strong>8.1. Ответственность</strong><br>Вы несёте ответственность за сохранность своих учётных данных.<br><br><strong>8.2. Меры безопасности</strong><br>Компания принимает разумные меры безопасности, но не гарантирует полную защиту."
       },
       "user-data": {
-        "title": "9. User Data",
-        "content": "<strong>9.1. Data Collection</strong><br>We may collect and use data from your use of the bot in accordance with our Privacy Policy.<br><br><strong>9.2. Data Retention</strong><br>We will retain user data for as long as necessary to provide our services and comply with legal obligations."
+        "title": "9. Пользовательские данные",
+        "content": "<strong>9.1. Сбор данных</strong><br>Компания может собирать и использовать данные в соответствии с Политикой конфиденциальности.<br><br><strong>9.2. Хранение данных</strong><br>Данные хранятся столько, сколько необходимо для предоставления услуг и выполнения юридических обязательств."
+      },
+      "third-party-services": {
+        "title": "10. Сторонние сервисы",
+        "content": "Использование продукции и услуг может включать интеграцию со сторонними сервисами. Компания не несёт ответственность за действия сторонних поставщиков."
+      },
+      "intellectual-property": {
+        "title": "11. Интеллектуальная собственность",
+        "content": "Все права на продукцию, бренды и контент принадлежат компании Muhamed IT Solutions. Копирование и распространение без разрешения запрещено."
+      },
+      "limitations-of-use": {
+        "title": "12. Ограничения использования",
+        "content": "Вы не имеете права использовать продукцию или услуги в незаконных целях или для обхода ограничений компании."
+      },
+      "warranties": {
+        "title": "13. Гарантии",
+        "content": "Продукция и услуги предоставляются без гарантий, кроме тех, что прямо предусмотрены законом."
+      },
+      "liability": {
+        "title": "14. Ответственность",
+        "content": "Компания не несёт ответственность за косвенные, случайные или непрямые убытки, возникшие при использовании продукции или услуг."
       },
       "contact-information": {
-        "title": "10. Contact Information",
-        "content": "For questions or concerns about these Terms of Use, please contact us at: akynsasa@gmail.com."
+        "title": "15. Контактная информация",
+        "content": "Если у вас есть вопросы или замечания по поводу этих условий, свяжитесь с нами: contact@muhameditsolutions.com."
       }
     }
   },
   "uk": {
-    "title": "Умови використання.",
-    "content": "Ці Умови використання регулюють ваше використання бота ProAssist та всіх супутніх продуктів і послуг. Використовуючи бот ProAssist, ви погоджуєтеся з цими умовами.",
+    "title": "Умови використання",
+    "content": "Ці Умови використання регулюють використання продукції та послуг компанії Muhamed IT Solutions. Використовуючи продукцію та послуги компанії, ви погоджуєтеся з цими умовами.",
     "sections": {
       "acceptance": {
         "title": "1. Прийняття умов",
-        "content": "<strong>1.1. Згода</strong><br>Продовжуючи використовувати бот ProAssist, ви погоджуєтеся дотримуватися цих Умов використання та всіх застосовних законів.<br><br><strong>1.2. Юридичні представники</strong><br>Якщо ви є юридичним представником (батьком або опікуном) неповнолітнього користувача, ви погоджуєтеся з цими умовами від свого імені та іменем неповнолітнього.<br><br><strong>1.3. Вік</strong><br>Вам потрібно досягти віку, дозволеного для використання бота відповідно до умов Discord.<br><br><strong>1.4. Політика конфіденційності</strong><br>Використовуючи бот, ви також погоджуєтеся з Політикою конфіденційності ProAssist.<br><br><strong>1.5. Зміни</strong><br>Ми можемо змінювати ці Умови використання та Політику конфіденційності в будь-який час без попередження. Продовження використання означає прийняття оновлених умов."
+        "content": "<strong>1.1. Згода</strong><br>Продовжуючи використовувати продукцію та послуги компанії Muhamed IT Solutions, ви погоджуєтеся дотримуватися цих Умов використання та всіх застосовних законів.<br><br><strong>1.2. Юридичні представники</strong><br>Якщо ви є юридичним представником (батьком або опікуном) неповнолітнього користувача, ви погоджуєтеся з цими умовами від свого імені та іменем неповнолітнього.<br><br><strong>1.3. Вік</strong><br>Вам необхідно бути повнолітнім для використання продукції та послуг компанії.<br><br><strong>1.4. Політика конфіденційності</strong><br>Використовуючи продукцію та послуги компанії, ви також погоджуєтеся з нашою Політикою конфіденційності.<br><br><strong>1.5. Зміни умов</strong><br>Компанія залишає за собою право змінювати Умови використання та Політику конфіденційності в будь-який час без попереднього повідомлення. Продовження використання означає прийняття оновлених умов."
       },
       "disclaimer": {
         "title": "2. Відмова від відповідальності",
-        "content": "<strong>2.1. Обмеження відповідальності</strong><br>Розробник бота та адміністрація не несуть відповідальності за будь-які збитки, що виникають через неправильне використання або налаштування бота. Всі налаштування надаються \"як є\", і використання здійснюється на ваш власний ризик.<br><br><strong>2.2. Зміни в роботі</strong><br>Ми залишаємо за собою право модифікувати, призупинити або припинити роботу бота в будь-який час без попередження. Ми не несемо відповідальності за будь-які збитки або порушення через ці зміни.<br><br><strong>2.3. Технічні проблеми</strong><br>Ми не гарантуємо безперервний доступ. Технічні проблеми можуть призвести до простоїв, втрати даних або помилок. Ми не несемо відповідальності за будь-які незручності, спричинені такими проблемами.<br><br><strong>2.4. Обмеження функціональності</strong><br>Ми залишаємо за собою право блокувати або обмежувати функціональність для будь-якого користувача або сервера без пояснень."
+        "content": "<strong>2.1. Обмеження відповідальності</strong><br>Компанія не несе відповідальності за будь-які збитки, що виникли через неправильне використання або налаштування продукції та послуг. Всі послуги надаються \"як є\", і використання здійснюється на ваш страх і ризик.<br><br><strong>2.2. Операційні зміни</strong><br>Ми можемо змінювати, призупиняти або припиняти надання продукції та послуг у будь-який час без попередження. Ми не несемо відповідальності за будь-які втрати або перебої, спричинені цими змінами.<br><br><strong>2.3. Технічні проблеми</strong><br>Компанія не гарантує безперервний доступ. Технічні проблеми можуть спричинити простої, втрату даних або помилки.<br><br><strong>2.4. Обмеження функціональності</strong><br>Компанія залишає за собою право обмежувати функціональність продукції та послуг для будь-якого користувача або організації без пояснень."
       },
-      "donations": {
-        "title": "3. Добровільні внески",
-        "content": "<strong>3.1. Добровільні пожертви</strong><br>Усі пожертви є добровільними та не підлягають поверненню.<br><br><strong>3.2. Промоції</strong><br>Ми можемо пропонувати винагороди за внески, але не гарантуємо їхню постійність. Умови акцій можуть змінюватися, і користувачі будуть повідомлені про ці зміни на офіційному сервері Discord Community."
+      "payments": {
+        "title": "3. Платежі та пожертви",
+        "content": "<strong>3.1. Добровільні внески</strong><br>Будь-які платежі або пожертви є добровільними та не підлягають поверненню.<br><br><strong>3.2. Акції та бонуси</strong><br>Компанія може пропонувати винагороди за оплату, але не гарантує їхню постійність. Умови акцій можуть змінюватися."
       },
       "usage-rules": {
-        "title": "4. Правила використання бота",
-        "content": "<strong>4.1. Порушення</strong><br>Порушення правил використання може призвести до постійного бана з бота, Community Server та партнерських проектів. Серйозність покарання визначається адміністрацією.<br><br><strong>4.2. Експлуатація помилок</strong><br>Експлуатація помилок або недоліків для особистої вигоди заборонена.<br><br><strong>4.3. Порушення функціональності</strong><br>Спроби порушити функціональність бота шляхом створення штучного навантаження або експлуатації помилок заборонені.<br><br><strong>4.4. Обхід блокувань</strong><br>Обхід механізмів блокування бота заборонено.<br><br><strong>4.5. Шкідливе використання</strong><br>Використання бота для шкоди будь-якому серверу або особі, або для порушення умов Discord або законів Російської Федерації, заборонено.<br><br><strong>4.6. Публічні образи</strong><br>Публічні образи або необґрунтована критика бота, розробника, команди, інших користувачів або Community Server заборонені."
+        "title": "4. Правила використання",
+        "content": "<strong>4.1. Порушення</strong><br>Порушення правил використання продукції або послуг може призвести до обмеження доступу або відмови у обслуговуванні.<br><br><strong>4.2. Використання помилок</strong><br>Використання помилок або недоліків продукції та послуг для особистої вигоди заборонено.<br><br><strong>4.3. Порушення роботи</strong><br>Серйозні спроби порушити роботу послуг або продукції заборонено.<br><br><strong>4.4. Обхід обмежень</strong><br>Обхід механізмів обмеження доступу заборонено.<br><br><strong>4.5. Нанесення шкоди</strong><br>Використання продукції або послуг для нанесення шкоди заборонено.<br><br><strong>4.6. Публічна критика</strong><br>Публічні образи або необґрунтована критика компанії або її співробітників заборонені."
       },
       "termination": {
-        "title": "5. Припинення дії",
-        "content": "<strong>5.1. Припинення з нашого боку</strong><br>Ми можемо припинити або призупинити ваш доступ до бота в будь-який час, якщо вважаємо, що ви порушили ці умови.<br><br><strong>5.2. Припинення з вашого боку</strong><br>Ви можете припинити використання бота в будь-який час і закрити свій аккаунт, припинивши використання та сповістивши нас.<br><br><strong>5.3. Наслідки припинення</strong><br>При припиненні ви втрачаєте право на використання бота та повинні видалити всі копії, що знаходяться у вашому володінні."
+        "title": "5. Припинення обслуговування",
+        "content": "<strong>5.1. З боку компанії</strong><br>Компанія може припинити або призупинити надання послуг при порушенні умов.<br><br><strong>5.2. З боку користувача</strong><br>Ви можете припинити використання послуг у будь-який час.<br><br><strong>5.3. Наслідки</strong><br>Після припинення ви втрачаєте право на використання продукції та послуг і повинні видалити всі копії."
       },
       "governing-law": {
         "title": "6. Застосовне право",
-        "content": "Ці Умови використання регулюються і тлумачаться відповідно до законів юрисдикції, в якій діє ProAssist. Будь-які суперечки, що виникають з цих умов, будуть підлягати виключній юрисдикції судів цієї юрисдикції."
+        "content": "Ці умови регулюються законами юрисдикції, де зареєстрована компанія Muhamed IT Solutions. Всі спори підлягають виключній юрисдикції відповідних судів."
       },
       "dispute-resolution": {
-        "title": "7. Вирішення суперечок",
-        "content": "<strong>7.1. Переговори</strong><br>Ми радимо вирішувати суперечки шляхом безпосередніх переговорів.<br><br><strong>7.2. Посередництво</strong><br>Якщо переговори не дадуть результату, суперечки будуть передані на посередництво перед тим, як шукати юридичні рішення.<br><br><strong>7.3. Арбітраж</strong><br>Якщо посередництво не допоможе, суперечки будуть вирішені шляхом арбітражу відповідно до правил узгодженої організації арбітражу."
+        "title": "7. Вирішення спорів",
+        "content": "<strong>7.1. Переговори</strong><br>Ми рекомендуємо вирішувати спори через прямі переговори.<br><br><strong>7.2. Медiацiя</strong><br>Якщо переговори не вдалися, спори можуть бути передані на медіацію.<br><br><strong>7.3. Арбітраж</strong><br>Якщо медіація не допомагає, спір вирішується через арбітраж."
       },
       "account-security": {
-        "title": "8. Безпека аккаунту",
-        "content": "<strong>8.1. Відповідальність</strong><br>Ви несете відповідальність за збереження конфіденційності вашого аккаунту та паролів. Ви погоджуєтеся негайно повідомити нас про будь-яке несанкціоноване використання вашого аккаунту.<br><br><strong>8.2. Заходи безпеки</strong><br>Ми вживаємо розумних заходів для забезпечення безпеки нашого бота, але не можемо гарантувати, що несанкціоновані треті особи ніколи не зможуть подолати ці заходи."
+        "title": "8. Безпека акаунта",
+        "content": "<strong>8.1. Відповідальність</strong><br>Ви несете відповідальність за збереження своїх облікових даних.<br><br><strong>8.2. Заходи безпеки</strong><br>Компанія приймає розумні заходи безпеки, але не гарантує повну захищеність."
       },
       "user-data": {
         "title": "9. Дані користувачів",
-        "content": "<strong>9.1. Збір даних</strong><br>Ми можемо збирати та використовувати дані з вашого використання бота відповідно до нашої Політики конфіденційності.<br><br><strong>9.2. Збереження даних</strong><br>Ми будемо зберігати дані користувачів стільки, скіль це необхідно для надання наших послуг і дотримання юридичних зобов’язань."
+        "content": "<strong>9.1. Збір даних</strong><br>Компанія може збирати та використовувати дані відповідно до Політики конфіденційності.<br><br><strong>9.2. Збереження даних</strong><br>Дані зберігаються стільки, скільки необхідно для надання послуг і виконання юридичних зобов'язань."
+      },
+      "third-party-services": {
+        "title": "10. Сторонні сервіси",
+        "content": "Використання продукції та послуг може включати інтеграцію зі сторонніми сервісами. Компанія не несе відповідальності за дії сторонніх постачальників."
+      },
+      "intellectual-property": {
+        "title": "11. Інтелектуальна власність",
+        "content": "Всі права на продукцію, бренди та контент належать компанії Muhamed IT Solutions. Копіювання та розповсюдження без дозволу заборонено."
+      },
+      "limitations-of-use": {
+        "title": "12. Обмеження використання",
+        "content": "Ви не маєте права використовувати продукцію або послуги в незаконних цілях або для обходу обмежень компанії."
+      },
+      "warranties": {
+        "title": "13. Гарантії",
+        "content": "Продукція та послуги надаються без гарантій, окрім тих, що прямо передбачені законом."
+      },
+      "liability": {
+        "title": "14. Відповідальність",
+        "content": "Компанія не несе відповідальності за непрямі, випадкові або побічні збитки, що виникли під час використання продукції або послуг."
       },
       "contact-information": {
-        "title": "10. Контактна інформація",
-        "content": "Якщо у вас є питання або зауваження щодо цих Умов використання, будь ласка, зв’яжіться з нами за адресою: akynsasa@gmail.com."
+        "title": "15. Контактна інформація",
+        "content": "Якщо у вас є питання або зауваження щодо цих умов, зв'яжіться з нами: contact@muhameditsolutions.com."
       }
     }
   },
-  "ru": {
-    "title": "Условия обслуживания.",
-    "content": "Эти Условия обслуживания регулируют использование бота ProAssist и всех связанных продуктов и услуг. Используя бот ProAssist, вы соглашаетесь с этими условиями.",
+  "en": {
+    "title": "Terms of Use",
+    "content": "These Terms of Use govern the use of products and services provided by Muhamed IT Solutions. By using the company's products and services, you agree to these terms.",
     "sections": {
       "acceptance": {
-        "title": "1. Принятие условий",
-        "content": "<strong>1.1. Согласие</strong><br>Продолжая использовать бот ProAssist, вы соглашаетесь соблюдать эти Условия обслуживания и все применимые законы.<br><br><strong>1.2. Законные представители</strong><br>Если вы являетесь законным представителем (родителем или опекуном) несовершеннолетнего пользователя, вы соглашаетесь с этими условиями от своего имени и от имени несовершеннолетнего.<br><br><strong>1.3. Требование к возрасту</strong><br>Вы должны быть совершеннолетним для использования бота, как это требует политика Discord.<br><br><strong>1.4. Политика конфиденциальности</strong><br>Используя бот, вы также соглашаетесь с Политикой конфиденциальности ProAssist.<br><br><strong>1.5. Изменения</strong><br>Мы можем изменять эти Условия обслуживания и Политику конфиденциальности в любое время без предварительного уведомления. Продолжение использования означает принятие обновленных условий."
+        "title": "1. Acceptance of Terms",
+        "content": "<strong>1.1. Consent</strong><br>By continuing to use the products and services of Muhamed IT Solutions, you agree to comply with these Terms of Use and all applicable laws.<br><br><strong>1.2. Legal Representatives</strong><br>If you are a legal representative (parent or guardian) of a minor user, you agree to these terms on behalf of yourself and the minor.<br><br><strong>1.3. Age Requirement</strong><br>You must be of legal age to use the company's products and services.<br><br><strong>1.4. Privacy Policy</strong><br>By using the products and services, you also agree to the company's Privacy Policy.<br><br><strong>1.5. Changes to Terms</strong><br>The company reserves the right to modify the Terms of Use and Privacy Policy at any time without notice. Continued use indicates acceptance of the updated terms."
       },
       "disclaimer": {
-        "title": "2. Отказ от ответственности",
-        "content": "<strong>2.1. Ограничение ответственности</strong><br>Разработчик бота и администрация не несут ответственности за любой ущерб, возникший в результате неправильного использования или настройки бота. Все настройки предоставляются \"как есть\", и использование осуществляется на ваш страх и риск.<br><br><strong>2.2. Операционные изменения</strong><br>Мы оставляем за собой право изменять, приостанавливать или прекращать работу бота в любое время без предварительного уведомления. Мы не несём ответственность за любые убытки или перебои, вызванные этими изменениями.<br><br><strong>2.3. Технические проблемы</strong><br>Мы не гарантируем непрерывный доступ. Технические проблемы могут вызывать простои, потерю данных или ошибки. Мы не несём ответственности за любые неудобства, вызванные такими проблемами.<br><br><strong>2.4. Ограничения функциональности</strong><br>Мы оставляем за собой право блокировать или ограничивать функциональность для любого пользователя или сервера без объяснения причин."
+        "title": "2. Disclaimer",
+        "content": "<strong>2.1. Limitation of Liability</strong><br>The company is not responsible for any damages resulting from incorrect use or configuration of products and services. All services are provided \"as is\" and use is at your own risk.<br><br><strong>2.2. Operational Changes</strong><br>We may modify, suspend, or discontinue products and services at any time without notice. We are not responsible for losses or interruptions caused by such changes.<br><br><strong>2.3. Technical Issues</strong><br>The company does not guarantee uninterrupted access. Technical issues may cause downtime, data loss, or errors.<br><br><strong>2.4. Functional Limitations</strong><br>The company reserves the right to limit the functionality of products and services for any user or organization without explanation."
       },
-      "donations": {
-        "title": "3. Пожертвования",
-        "content": "<strong>3.1. Добровольные взносы</strong><br>Все пожертвования являются добровольными и не подлежат возврату.<br><br><strong>3.2. Акции</strong><br>Мы можем предлагать вознаграждения за пожертвования, но не гарантируем их постоянство. Условия акций могут изменяться, и пользователи будут уведомлены на официальном сервере Discord сообщества."
+      "payments": {
+        "title": "3. Payments and Donations",
+        "content": "<strong>3.1. Voluntary Contributions</strong><br>Any payments or donations are voluntary and non-refundable.<br><br><strong>3.2. Promotions and Bonuses</strong><br>The company may offer rewards for payment but does not guarantee their permanence. Terms may change."
       },
       "usage-rules": {
-        "title": "4. Правила использования бота",
-        "content": "<strong>4.1. Нарушения</strong><br>Нарушение правил использования может привести к пожизненному бану от бота, сервера сообщества и партнерских проектов. Степень наказания определяется администрацией.<br><br><strong>4.2. Использование ошибок</strong><br>Использование ошибок или недостатков для личной выгоды запрещено.<br><br><strong>4.3. Нарушение работы</strong><br>Попытки нарушить работу бота, создавая искусственную нагрузку или используя ошибки, запрещены.<br><br><strong>4.4. Обход блокировок</strong><br>Обход механизмов блокировки бота запрещен.<br><br><strong>4.5. Наносение вреда</strong><br>Использование бота для нанесения вреда любому серверу или индивиду, или для нарушения условий Discord или применимых законов, запрещено.<br><br><strong>4.6. Публичная критика</strong><br>Публичные оскорбления или необоснованная критика бота, разработчика, команды, других пользователей или сервера сообщества запрещены."
+        "title": "4. Rules of Use",
+        "content": "<strong>4.1. Violations</strong><br>Violation of usage rules may result in restricted access or refusal of service.<br><br><strong>4.2. Exploiting Errors</strong><br>Exploiting errors or defects for personal gain is prohibited.<br><br><strong>4.3. Disruptions</strong><br>Serious attempts to disrupt services or products are prohibited.<br><br><strong>4.4. Bypassing Restrictions</strong><br>Bypassing access restrictions is prohibited.<br><br><strong>4.5. Causing Harm</strong><br>Using products or services to cause harm is prohibited.<br><br><strong>4.6. Public Criticism</strong><br>Public insults or unfounded criticism of the company or its employees is prohibited."
       },
       "termination": {
-        "title": "5. Прекращение",
-        "content": "<strong>5.1. Прекращение со стороны нас</strong><br>Мы можем прекратить или приостановить ваш доступ к боту в любое время, если мы считаем, что вы нарушили эти условия.<br><br><strong>5.2. Прекращение со стороны вас</strong><br>Вы можете прекратить использование бота в любое время и удалить свой аккаунт, прекратив использование и уведомив нас.<br><br><strong>5.3. Последствия прекращения</strong><br>После прекращения вы теряете право на использование бота и должны удалить все его копии, находящиеся у вас."
+        "title": "5. Termination of Service",
+        "content": "<strong>5.1. By Company</strong><br>The company may terminate or suspend services if terms are violated.<br><br><strong>5.2. By User</strong><br>You may stop using the services at any time.<br><br><strong>5.3. Consequences</strong><br>After termination, you lose the right to use products and services and must delete all copies."
       },
       "governing-law": {
-        "title": "6. Применимое право",
-        "content": "Эти Условия обслуживания регулируются и толкуются в соответствии с законами юрисдикции, в которой работает ProAssist. Все споры, возникающие из этих условий, будут подлежать исключительной юрисдикции судов этой юрисдикции."
+        "title": "6. Governing Law",
+        "content": "These terms are governed by the laws of the jurisdiction where Muhamed IT Solutions is registered. All disputes are subject to the exclusive jurisdiction of the relevant courts."
       },
       "dispute-resolution": {
-        "title": "7. Разрешение споров",
-        "content": "<strong>7.1. Переговоры</strong><br>Мы рекомендуем разрешать споры путем прямых переговоров.<br><br><strong>7.2. Медиация</strong><br>Если переговоры не увенчаются успехом, споры будут переданы на медиацию перед обращением в суд.<br><br><strong>7.3. Арбитраж</strong><br>Если медиация не разрешит спор, он будет разрешен путем арбитража в соответствии с правилами согласованной арбитражной организации."
+        "title": "7. Dispute Resolution",
+        "content": "<strong>7.1. Negotiation</strong><br>We recommend resolving disputes through direct negotiation.<br><br><strong>7.2. Mediation</strong><br>If negotiations fail, disputes may be submitted to mediation.<br><br><strong>7.3. Arbitration</strong><br>If mediation does not resolve the dispute, it will be resolved through arbitration."
       },
       "account-security": {
-        "title": "8. Безопасность аккаунта",
-        "content": "<strong>8.1. Ответственность</strong><br>Вы несете ответственность за сохранность конфиденциальности вашего аккаунта и любых связанных паролей. Вы соглашаетесь немедленно уведомить нас о любом несанкционированном использовании вашего аккаунта.<br><br><strong>8.2. Меры безопасности</strong><br>Мы принимаем разумные меры для обеспечения безопасности нашего бота, но не можем гарантировать, что несанкционированные третьи лица никогда не смогут обойти эти меры."
+        "title": "8. Account Security",
+        "content": "<strong>8.1. Responsibility</strong><br>You are responsible for safeguarding your account credentials.<br><br><strong>8.2. Security Measures</strong><br>The company implements reasonable security measures but cannot guarantee complete protection."
       },
       "user-data": {
-        "title": "9. Пользовательские данные",
-        "content": "<strong>9.1. Сбор данных</strong><br>Мы можем собирать и использовать данные о вашем использовании бота в соответствии с нашей Политикой конфиденциальности.<br><br><strong>9.2. Хранение данных</strong><br>Мы будем хранить данные пользователей столько, сколько необходимо для предоставления наших услуг и выполнения юридических обязательств."
+        "title": "9. User Data",
+        "content": "<strong>9.1. Data Collection</strong><br>The company may collect and use data in accordance with its Privacy Policy.<br><br><strong>9.2. Data Retention</strong><br>Data is retained as long as necessary to provide services and comply with legal obligations."
+      },
+      "third-party-services": {
+        "title": "10. Third-Party Services",
+        "content": "Use of products and services may include integration with third-party services. The company is not responsible for third-party actions."
+      },
+      "intellectual-property": {
+        "title": "11. Intellectual Property",
+        "content": "All rights to products, brands, and content belong to Muhamed IT Solutions. Copying or distribution without permission is prohibited."
+      },
+      "limitations-of-use": {
+        "title": "12. Limitations of Use",
+        "content": "You may not use products or services for illegal purposes or to circumvent company restrictions."
+      },
+      "warranties": {
+        "title": "13. Warranties",
+        "content": "Products and services are provided without warranties, except as expressly provided by law."
+      },
+      "liability": {
+        "title": "14. Liability",
+        "content": "The company is not liable for indirect, incidental, or consequential damages arising from the use of products or services."
       },
       "contact-information": {
-        "title": "10. Контактная информация",
-        "content": "Если у вас есть вопросы или замечания по поводу этих Условий обслуживания, пожалуйста, свяжитесь с нами по адресу: akynsasa@gmail.com."
+        "title": "15. Contact Information",
+        "content": "If you have questions or comments regarding these terms, contact us at: contact@muhameditsolutions.com."
       }
     }
   }
 }
-
