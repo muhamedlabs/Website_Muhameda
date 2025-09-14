@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html class="no-js vlt-is--single-post vlt-is--footer-fixed" lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <!-- Заголовок страницы: должен подтягиваться из выбранного языка -->
+    <title data-translate="title_ts">Website Muhameda | Terms of Use</title>
+    
+    <!-- Українська -->
+    <link rel="alternate" hreflang="uk" href="https://muhamedlabs.pro/devion/terms" />
+    <meta name="description" content="Чіткі правила користування сервісами Muhamed IT Solutions, що гарантують прозорі та чесні умови для всіх користувачів."> <!--Короткий опис сторінки в пошуку-->
+    <meta name="keywords" content="Андрей Мухамед, YouTube, Muhamed IT Solutions, Бот, Discord, Telegram, Умови використання"> <!--Ключові слова-->
+
+    <!-- Русский -->
+    <link rel="alternate" hreflang="ru" href="https://muhamedlabs.pro/devion/terms" />
+    <meta name="description" content="Чёткие правила пользования сервисами Muhamed IT Solutions, обеспечивающие прозрачные и честные условия для всех пользователей."> <!--Короткий опис сторінки в пошуку-->
+    <meta name="keywords" content="Андрей Мухамед, YouTube, Muhamed IT Solutions, Бот, Discord, Telegram, Политика безопасности, Условия использования"> <!--Ключові слова-->
+
+    <!-- English -->
+    <link rel="alternate" hreflang="en" href="https://muhamedlabs.pro/devion/terms" />
+    <meta name="description" content="Clear terms of use for Muhamed IT Solutions services, ensuring transparent and fair conditions for all users."> <!--Короткий опис сторінки в пошуку-->
+    <meta name="keywords" content="Andrey Muhamed, YouTube, Muhamed IT Solutions, Bot, Discord, Telegram, Security Policy, Terms of Use"> <!--Ключові слова-->
+
+    <!-- Open Graph для всіх мов -->
+    <meta property="og:description" content="Clear terms of use for Muhamed IT Solutions services, ensuring transparent and fair conditions for all users."> <!--Рекламний опис-->
+    <meta property="og:image" content="https://muhamedlabs.pro/devion/assets/img/Web_ava.webp"> <!--Аватарка в посиланні-->
+    <meta property="og:url" content="https://muhamedlabs.pro/devion/terms"> <!--Посилання на сторінку-->
+    <meta name="robots" content="index,follow"> <!--Обробляє індексацію-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!--Орієнтація для всіх пристроїв-->
+
+
+    <!--Твіч оформлення-->
+    <meta name="twitter:description" content="Andrey Muhamed and his team are responsible for everything they've created, from bots to various products.">
+    <meta name="twitter:image" content="assets/img/Web_ava.webp">
+    <meta name="twitter:card" content="summary_large_image">    
+    <meta name="twitter:site" content="@muhamedlabs">
+
+    <!--Favicon: можно оставить без перевода-->
+    <link rel="icon" type="image/svg+xml" href="assets/img/Web_ava.webp">
+    <!--Framework: CSS без перевода-->
+    <link rel="stylesheet" href="assets/css/framework/bootstrap.min.css">
+    <!--Fonts: шрифты без перевода-->
+    <link rel="stylesheet" href="assets/fonts/style.css">
+    <!--Plugins: плагины без перевода-->
+    <link rel="stylesheet" href="assets/css/vlt-plugins.min.css">
+    <!--Style: основной стиль без перевода-->
+    <link rel="stylesheet" href="assets/css/vlt-main.min.css">
+    <!--Custom: кастомные стили без перевода-->
+    <link rel="stylesheet" href="assets/css/custom.css">
+</head>
+
+<body class="animsition">
+    <div class="vlt-gap-140"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 offset-lg-2">
+                <!--Основной заголовок: подтягивается из выбранного языка-->
+                <div class="vlt-animated-block" data-animation-name="fadeInUpSm" style="animation-delay:0s; animation-duration:700ms;">
+                    <h3 id="terms-title" data-translate="title">Terms of Use.</h3>
+                </div>
+                <div class="vlt-gap-60"></div>
+                <!--Контент страницы: весь текст должен быть на одном выбранном языке-->
+                <div class="vlt-animated-block" data-animation-name="fadeInUpSm" style="animation-delay:.1s; animation-duration:700ms;">
+                    <div id="terms-content">
+                        <!-- Контент будет загружен через JS и должен быть на одном языке -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="vlt-gap-140"></div>
+
+    <!--Footer: весь текст и кнопки переключения языка должны быть на одном языке, подсказка для разработчиков -->
+    <footer class="vlt-footer vlt-footer--default vlt-footer--fixed">
+        <div class="vlt-footer-copyright">
+            <!--Подтягивается из JSON выбранного языка-->
+            <p data-translate="guidelines_copyright">© 2025 Muhamed — All Rights Reserved</p>
+        </div>
+        <div class="vlt-language-switcher">
+            <!--Кнопки переключения языка: остаются как есть, но текст фиксированный-->
+            <a href="#" data-lang="en" class="lang-switcher is-active">Eng.</a>
+            <a href="#" data-lang="uk" class="lang-switcher">Ukr.</a>
+            <a href="#" data-lang="ru" class="lang-switcher">Rus.</a>
+        </div>
+    </footer>
+
+    <!--Библиотеки JS: без перевода-->
+    <script src="assets/vendors/jquery-3.5.1.min.js"></script>
+    <script src="assets/scripts/vlt-plugins.min.js"></script>
+    <script src="assets/scripts/vlt-helpers.js"></script>
+    <script src="assets/scripts/vlt-controllers.min.js"></script>
+    <script>
+        let translations = {};
+
+        async function loadTranslations() {
+            if (Object.keys(translations).length === 0) {
+                const response = await fetch('assets/language/terms.json');
+                translations = await response.json();
+            }
+            return translations;
+        }
+
+        async function setLanguage(lang) {
+            const texts = (await loadTranslations())[lang];
+
+            // Обновляем <title>: должно соответствовать выбранному языку
+            if (texts.title_ts) document.title = texts.title_ts;
+
+            // Обновляем все элементы с data-translate: текст должен быть на одном языке
+            document.querySelectorAll('[data-translate]').forEach(el => {
+                const key = el.getAttribute('data-translate');
+                if (texts[key]) el.innerHTML = texts[key];
+            });
+
+            // Загружаем контент страницы: весь контент на одном языке
+            const termsContent = document.getElementById('terms-content');
+            if (termsContent) {
+                let html = `<p>${texts.content}</p>`;
+                for (let key in texts.sections) {
+                    html += `<h4>${texts.sections[key].title}</h4><p>${texts.sections[key].content}</p>`;
+                }
+                termsContent.innerHTML = html;
+            }
+        }
+
+        // Переключение языков
+        document.querySelectorAll('.lang-switcher').forEach(button => {
+            button.addEventListener('click', async (event) => {
+                event.preventDefault();
+                const lang = button.getAttribute('data-lang');
+                await setLanguage(lang);
+                document.querySelectorAll('.lang-switcher').forEach(btn => btn.classList.remove('is-active'));
+                button.classList.add('is-active');
+            });
+        });
+
+        // Устанавливаем язык по умолчанию
+        setLanguage('en');
+    </script>
+</body>
+
+</html>
